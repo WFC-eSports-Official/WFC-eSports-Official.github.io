@@ -58,6 +58,6 @@ body {
   background-color: #00004a;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover .dropcnt {
   display: block;
 }
