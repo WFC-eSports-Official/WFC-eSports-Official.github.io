@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  background-color: #00004a;
+}
+
+#HEADER {
+  text-align: center;
+  color: white;
+}
+
+#HEADERDIV {
+  background-image: url(https://www.enjpg.com/img/2020/rocket-league-5.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
