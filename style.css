@@ -3,12 +3,13 @@ body {
 }
 
 #HEADER {
-  padding: 50px 100px;
+  text-align: center;
   color: white;
 }
 
 #HEADERDIV {
   background-image: url(https://www.enjpg.com/img/2020/rocket-league-5.jpg);
+  background-size: cover;
 }
 
 .navbar {
