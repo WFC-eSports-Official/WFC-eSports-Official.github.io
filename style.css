@@ -2,6 +2,11 @@ body {
   font-family: Arial;
 }
 
+#HEADER {
+  padding: 50px 100px;
+  color: white;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #00004a;
