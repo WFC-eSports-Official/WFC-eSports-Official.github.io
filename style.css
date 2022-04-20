@@ -7,6 +7,10 @@ body {
   color: white;
 }
 
+#HEADERDIV {
+  background-image: url(https://www.enjpg.com/img/2020/rocket-league-5.jpg);
+}
+
 .navbar {
   overflow: hidden;
   background-color: #00004a;
