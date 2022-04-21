@@ -23,7 +23,7 @@ body {
 }
 
 #name {
- background-image:linear-gradient(90deg,yellow,orange,red);
+ background-image:linear-gradient(90deg,#121FCF,#82004A);
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
 }
