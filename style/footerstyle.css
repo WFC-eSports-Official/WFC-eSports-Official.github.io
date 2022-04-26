@@ -10,11 +10,6 @@ footer {
   overflow: hidden;
 }
 
-.footers div {
-  display: inline;
-  background-color: #2a2a2a;
-}
-
 .footerimg, .links, .login {
   display: block;
 }
