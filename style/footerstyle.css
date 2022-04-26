@@ -1,0 +1,8 @@
+.footers {
+  background-color: #4a4a4a;
+  color: white;
+}
+
+.footers, img, .links, .login {
+  display: block
+}
