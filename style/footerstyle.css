@@ -5,6 +5,10 @@
   overflow: hidden;
 }
 
+.footers div {
+  display: inline;
+}
+
 .footerimg, .links, .login {
   display: block;
 }
