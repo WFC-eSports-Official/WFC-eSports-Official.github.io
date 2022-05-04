@@ -20,4 +20,9 @@ footer {
   float: left;
 }
 
+.footer2 {
+  border: solid 0px;
+  border-radius: 75px;
+}
+
 
