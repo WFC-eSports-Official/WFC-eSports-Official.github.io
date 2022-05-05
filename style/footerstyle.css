@@ -18,6 +18,7 @@ footer {
 
 .footerdivs {
   float: left;
+  display: inline-block;
 }
 
 .login2 {
