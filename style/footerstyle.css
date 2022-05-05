@@ -25,6 +25,8 @@ footer {
   border: solid 0px;
   border-radius: 75px;
   background-image: linear-gradient (#0800ff, #ff0000)
+  margin: 20px;
+  padding: 10px;
 }
 
 
