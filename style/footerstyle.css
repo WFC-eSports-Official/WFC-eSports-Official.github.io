@@ -10,7 +10,13 @@ footer {
   overflow: hidden;
 }
 
-.copyright {
+.footers #footerimg
+.footers #links,
+.footers #login {
+  display: inline-block;
+}
+
+#copyright {
   background-color: #4a4a4a;
   text-align: center;
   padding: 15px 0px 15px 0px;
@@ -21,7 +27,7 @@ footer {
   display: inline-block;
 }
 
-.login2 {
+#login2 {
   border: solid 0px;
   border-radius: 75px;
   background-image: linear-gradient (#0800ff, #ff0000)
