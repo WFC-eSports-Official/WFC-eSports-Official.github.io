@@ -16,6 +16,10 @@ footer {
   display: inline-block;
 }
 
+#footerimg h3 {
+  display: inline;
+}
+
 #copyright {
   background-color: #4a4a4a;
   text-align: center;
