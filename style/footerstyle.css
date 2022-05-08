@@ -8,7 +8,6 @@ footer {
   background-color: #2a2a2a;
   color: white;
   overflow: hidden;
-  padding: 50px 20px 50px 20px;
 }
 
 #footers #footerimg
@@ -26,6 +25,7 @@ footer {
 .footerdivs {
   float: left;
   display: inline-block;
+  padding: 50px 20px 50px 20px;
 }
 
 #login2 {
