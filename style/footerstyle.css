@@ -4,16 +4,16 @@ footer {
   box-sizing: border-box;
 }
 
-.footers {
+#footers {
   background-color: #2a2a2a;
   color: white;
   overflow: hidden;
   padding: 50px 20px 50px 20px;
 }
 
-.footers #footerimg
-.footers #links,
-.footers #login {
+#footers #footerimg
+#footers #links,
+#footers #login {
   display: inline-block;
 }
 
