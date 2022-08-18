@@ -8,13 +8,13 @@
 .footerdivs {
   display: inline-block;
   margin: 0px 25px 0px 25px;
-  padding: 25px;
 }
 
 #login {
   border: solid 2px gray;
   border-radius: 75px;
   background: linear-gradient(#ff0036, #3900ff);
+  padding: 25px;
 }
 
 #copyright {
