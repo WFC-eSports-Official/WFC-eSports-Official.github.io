@@ -10,9 +10,7 @@ footer {
   overflow: hidden;
 }
 
-.footers #footerimg
-.footers #links,
-.footers #login {
+.footers {
   display: inline-block;
 }
 
