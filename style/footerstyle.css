@@ -3,11 +3,12 @@
   padding: 0px;
   box-sizing: border-box;
   background-color: #2a2a2a;
+  width: 100%;
 }
 
-#footerimg {float:left;width:100px;}
-#login {float:right; #container{width:100%;}
-#links {margin:0 auto;width:100px;}
+#footerimg {float: left; width: 100px;}
+#login {float: right; width: 100px}
+#links {margin: 0 auto; width: 100px}
 
 .footerdivs {
   margin: 0px 25px 0px 25px;
