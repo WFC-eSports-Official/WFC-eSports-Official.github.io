@@ -11,12 +11,10 @@
   padding: 25px;
 }
 
-#login2 {
+#login {
   border: solid 2px gray;
   border-radius: 75px;
   background: linear-gradient(#ff0036, #3900ff);
-  padding: 25px;
-  margin: 0px;
 }
 
 #copyright {
