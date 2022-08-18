@@ -3,12 +3,11 @@
   padding: 0px;
   box-sizing: border-box;
   background-color: #2a2a2a;
-  display: inline-block;
+  display: flex;
 }
 
 .footerdivs {
-  margin: 0px 25px 0px 25px;
-  display: inline-block;
+  margin: 25px;
 }
 
 #login {
@@ -20,7 +19,7 @@
 
 #copyright {
   margin: 0px;
-  padding: 30px 0px 30px 0px;
+  padding: 25px 0px 25px 0px;
   text-align: center;
   background-color: #4a4a4a;
 }
