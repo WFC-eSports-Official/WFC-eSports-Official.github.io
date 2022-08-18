@@ -7,7 +7,7 @@
 
 .footerdivs {
   display: inline-block;
-  margin: 25px 0px 25px 0px;
+  margin: 0px 25px 0px 25px;
   padding: 25px;
 }
 
@@ -19,7 +19,7 @@
 
 #copyright {
   margin: 0px;
-  padding: 0px 35px 0px 35px;
+  padding: 35px 0px 35px 0px;
   text-align: center;
   background-color: #4a4a4a;
 }
