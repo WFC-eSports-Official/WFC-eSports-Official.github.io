@@ -29,6 +29,10 @@
   padding: 25px;
 }
 
+#news-subtitle {
+  font-family: 'Bangers', cursive;
+}
+
 .rec_articles {
   border: solid 2px gray;
   border-radius: 25px;
