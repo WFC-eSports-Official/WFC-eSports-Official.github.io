@@ -32,6 +32,9 @@
 
 #news-subtitle {
   font-family: 'Bangers', cursive;
+  background-image:linear-gradient(90deg, #ffa100,#ffe100);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .rec_articles {
