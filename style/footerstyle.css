@@ -11,6 +11,10 @@
   margin: 25px;
 }
 
+#footerpic {
+  vertical-align: middle;
+}
+
 #login {
   border: solid 2px gray;
   border-radius: 75px;
