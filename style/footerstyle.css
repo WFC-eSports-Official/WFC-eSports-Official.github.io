@@ -25,6 +25,14 @@
   padding: 25px;
 }
 
+.rec_articles {
+  border: solid 2px gray;
+  border-radius: 25px;
+  background-color: white;
+  padding: 25px;  
+  font-family: Times New Roman;
+}
+
 #copyright {
   margin: 0px;
   padding: 25px 0px 25px 0px;
