@@ -18,6 +18,13 @@
   padding: 25px;
 }
 
+#news {
+  border: solid 2px gray;
+  border-radius: 75px;
+  background: linear-gradient(#f9f9f9, #f0f0f0);
+  padding: 25px;
+}
+
 #copyright {
   margin: 0px;
   padding: 25px 0px 25px 0px;
