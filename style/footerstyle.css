@@ -54,6 +54,10 @@
   font-family: Times New Roman;
 }
 
+#newsbtn {
+  margin: 15px;
+}
+
 #newslink {
   color: black;
 }
