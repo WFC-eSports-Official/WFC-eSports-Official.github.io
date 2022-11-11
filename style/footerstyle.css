@@ -9,11 +9,7 @@
 
 .footerdivs {
   margin: 25px;
-}
-
-#footerimg {
-  vertical-align: middle;
-  display: table-cell;
+  display: flex;
 }
 
 #footerpic {
